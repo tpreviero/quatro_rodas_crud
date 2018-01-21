@@ -14,7 +14,7 @@ virtualenv .env -p python3
 source .env/bin/activate
 ```
 
-### Dependencias
+### Dependências
 ```console
 pip install -r requirements.txt
 ```
